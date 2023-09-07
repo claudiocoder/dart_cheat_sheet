@@ -14,4 +14,6 @@
     6. [Dart Type System](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/types/build-in-types.dart)
 3. Patterns
     1. [Overview](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/patters/overview.dart)
-    2. [pattersTypes](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/patters/pattersTypes.dart)
+    2. [Patters Types](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/patters/pattersTypes.dart)
+4. Functions
+    1. [Functions](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/functions/functions.dart)
