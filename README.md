@@ -12,3 +12,6 @@
     4. [Generics](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/types/generics.dart)
     5. [Typedefs](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/types/typedefs.dart)
     6. [Dart Type System](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/types/build-in-types.dart)
+3. Patterns
+    1. [Overview](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/patters/overview.dart)
+    2. [pattersTypes](https://github.com/claudiocoder/dart_cheat_sheet/blob/develop/src/patters/pattersTypes.dart)
